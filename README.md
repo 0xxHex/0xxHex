@@ -7,7 +7,7 @@
 Collection of Python tools built from scratch for network and web security.
 → [security-tools](link)
 
-## 📝 HTB Write-ups  
+## 📝 HTB and THM Write-ups  
 Documented penetration testing methodology on HackTheBox machines.
 → [htb-writeups](link)
 
