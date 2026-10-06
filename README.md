@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Alhachemi Moulay Abdellah
 
-<!--
-**0xxHex/0xxHex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master Cybersecurity Student — University Oran 1
+🔐 Penetration Testing | Python Security Tools | Web Security
 
-Here are some ideas to get you started:
+## 🛠️ Security Tools
+Collection of Python tools built from scratch for network and web security.
+→ [security-tools](link)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📝 HTB Write-ups  
+Documented penetration testing methodology on HackTheBox machines.
+→ [htb-writeups](link)
+
+## 🌐 Web Security
+PortSwigger lab solutions and Python exploitation scripts.
+→ [web-security](link)
+
+## 📊 Skills
+- Penetration Testing: Nmap, Metasploit, Burp Suite
+- Python: Security automation, network tools
+- Linux: Daily driver, privilege escalation
+- Web: SQLi, XSS, CSRF, IDOR, File Upload
+
+## 🏆 Certifications
+- Practical Ethical Hacking — TCM Security
+- eJPT — In preparation
