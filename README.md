@@ -23,4 +23,3 @@ PortSwigger lab solutions and Python exploitation scripts.
 
 ## 🏆 Certifications
 - Practical Ethical Hacking — TCM Security
-- eJPT — In preparation
